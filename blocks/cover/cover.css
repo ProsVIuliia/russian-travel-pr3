@@ -1,0 +1,25 @@
+.cover {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 76px;
+/* or 106% */
+  text-align: center;
+  position: relative;
+  max-width: 1183px;
+  margin: 0 auto;
+  padding: 92px 0 92px 0;
+  }
+
+@media screen and (max-width: 768px) {
+  .cover {
+     padding: 88px 0 88px 0;
+    }
+}
+
+@media screen and (max-width: 320px) {
+  .cover {
+      padding: 64px 0 64px 0;
+    }
+}
