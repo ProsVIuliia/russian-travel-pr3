@@ -19,7 +19,3 @@
 
 Ссылка на проект:
 https://prosviuliia.github.io/russian-travel-pr3/
-
-
-Ссылка на github:
-https://github.com/ProsVIuliia/russian-travel-pr3.git
